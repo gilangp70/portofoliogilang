@@ -6,6 +6,21 @@
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
+      <image:loc>http://multimediagilanguas.com/images/logo-02-02.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://multimediagilanguas.com/images/14215145581_bfe4a7b97b_b-640x426.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://multimediagilanguas.com/images/unnamed.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://multimediagilanguas.com/home.html</loc>
+    <lastmod>2021-01-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
       <image:loc>http://multimediagilanguas.com/images/logo-01.png</image:loc>
     </image:image>
     <image:image>
