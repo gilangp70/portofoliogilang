@@ -1,12 +1,12 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="multimediagilanguas.com" resolutions="1x" timestamp="1610980953185">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="multimediagilanguas.com" resolutions="1x" timestamp="1610982512673">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="master_a-master.css" crc="3785762427" ref="portofolio:index"/>
     <file name="nomq_preview_master_a-master.css" crc="4194540226" ref="portofolio:index"/>
-    <file name="portofolio.css" crc="289135228" ref="portofolio"/>
-    <file name="nomq_portofolio.css" crc="425876837" ref="portofolio"/>
-    <file name="index.css" crc="308409720" ref="index"/>
-    <file name="nomq_index.css" crc="4247501624" ref="index"/>
+    <file name="portofolio.css" crc="4291702790" ref="portofolio"/>
+    <file name="nomq_portofolio.css" crc="50343208" ref="portofolio"/>
+    <file name="index.css" crc="4031708275" ref="index"/>
+    <file name="nomq_index.css" crc="4268206134" ref="index"/>
   </folder>
   <folder name="assets">
     <file name="4.mp4" crc="4204639350" seo="true" mt="1609931309000"/>
@@ -96,6 +96,7 @@
     <file name="img_1952-u485-fr.jpg" crc="247238214" ref="index"/>
     <file name="u387-42.png" crc="131427390" ref="index"/>
     <file name="u711-42.png" crc="487905284" ref="index"/>
+    <file name="img_1952-u485-fr2.jpg" crc="509765751" ref="index"/>
     <file name="71217783_2423777021233618_7069625959709565014_n315x237.jpg" crc="69253801" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
@@ -105,7 +106,6 @@
     <file name="129740254_383477026202682_3208909867394469479_n-crop-u20203.jpg" crc="121059260" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="img_1952-u485-fr2.jpg" crc="509765751" ref="index"/>
     <file name="u387-43.png" crc="131427390" ref="index"/>
     <file name="u711-43.png" crc="487905284" ref="index"/>
     <file name="78880710_512698576003957_415695233039025471_n358x269.jpg" crc="3883778843" seo="true" ref="portofolio">
@@ -207,6 +207,6 @@
       <caption webpage="portofolio" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="4072800244" seo="true" mt="1610980227486" redirect="true"/>
-  <file name="portofolio.html" crc="4105391006" seo="true" mt="1610979920791" redirect="true"/>
+  <file name="index.html" crc="4257291511" seo="true" mt="1610982402683" redirect="true"/>
+  <file name="portofolio.html" crc="354705634" seo="true" mt="1610981869835" redirect="true"/>
 </manifest>
