@@ -1,12 +1,12 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="multimediagilanguas.com" resolutions="1x" timestamp="1610982512673">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="multimediagilanguas.com" resolutions="1x" timestamp="1610983109836">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="master_a-master.css" crc="3785762427" ref="portofolio:index"/>
     <file name="nomq_preview_master_a-master.css" crc="4194540226" ref="portofolio:index"/>
     <file name="portofolio.css" crc="4291702790" ref="portofolio"/>
     <file name="nomq_portofolio.css" crc="50343208" ref="portofolio"/>
-    <file name="index.css" crc="4031708275" ref="index"/>
-    <file name="nomq_index.css" crc="4268206134" ref="index"/>
+    <file name="index.css" crc="4260318787" ref="index"/>
+    <file name="nomq_index.css" crc="259987836" ref="index"/>
   </folder>
   <folder name="assets">
     <file name="4.mp4" crc="4204639350" seo="true" mt="1609931309000"/>
@@ -207,6 +207,6 @@
       <caption webpage="portofolio" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="4257291511" seo="true" mt="1610982402683" redirect="true"/>
+  <file name="index.html" crc="3767624034" seo="true" mt="1610983077026" redirect="true"/>
   <file name="portofolio.html" crc="354705634" seo="true" mt="1610981869835" redirect="true"/>
 </manifest>
